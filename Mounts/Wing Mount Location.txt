@@ -1,0 +1,6 @@
+location is based on the centreline of the car in the long direction, it is 0.25 ft on either side of the centre line, 
+
+(MOUNT)--0.25ft--(CENTRELINE)--0.25ft--(MOUNT)
+
+LOVE
+TOM
